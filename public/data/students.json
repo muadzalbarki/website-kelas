@@ -1,0 +1,19 @@
+[
+    { "name": "Aisyah Rahma", "role": "Class Leader", "img": "images/students/aisyah.JPG", "ig": "#", "github": "#" },
+    { "name": "Bagas Dwi", "role": "Vice Leader", "img": "images/students/bagas.JPG", "ig": "#", "github": "#" },
+    { "name": "Citra Amelia", "role": "Secretary", "img": "images/students/citra.JPG", "ig": "#", "github": "#" },
+    { "name": "Dimas Arya", "role": "Treasurer", "img": "images/students/dimas.JPG", "ig": "#", "github": "#" },
+    { "name": "Eka Salsabila", "role": "Member", "img": "images/students/eka.JPG", "ig": "#", "github": "#" },
+    { "name": "Farhan Alif", "role": "Member", "img": "images/students/farhan.JPG", "ig": "#", "github": "#" },
+    { "name": "Gita Nur", "role": "Member", "img": "images/students/gita.JPG", "ig": "#", "github": "#" },
+    { "name": "Hafidz Ramadhan", "role": "Member", "img": "images/students/hafidz.JPG", "ig": "#", "github": "#" },
+    { "name": "Irfan Maulana", "role": "Member", "img": "images/students/irfan.JPG", "ig": "#", "github": "#" },
+    { "name": "Jihan Putri", "role": "Member", "img": "images/students/jihan.JPG", "ig": "#", "github": "#" },
+    { "name": "Kevin Aditya", "role": "Member", "img": "images/students/kevin.JPG", "ig": "#", "github": "#" },
+    { "name": "Laila Sari", "role": "Member", "img": "images/students/laila.JPG", "ig": "#", "github": "#" },
+    { "name": "Mikael Fikri", "role": "Member", "img": "images/students/mikael.JPG", "ig": "#", "github": "#" },
+    { "name": "Nadia Ayu", "role": "Member", "img": "images/students/nadia.JPG", "ig": "#", "github": "#" },
+    { "name": "Omar Rizky", "role": "Member", "img": "images/students/omar.JPG", "ig": "#", "github": "#" },
+    { "name": "Putri Lestari", "role": "Member", "img": "images/students/putri.JPG", "ig": "#", "github": "#" },
+    { "name": "Rafi Ahmad", "role": "Member", "img": "images/students/rafi.JPG", "ig": "#", "github": "#" }
+]
