@@ -28,12 +28,12 @@
             </ul>
         </div>
     </nav>
-    <main class="fade-page d-flex flex-column justify-content-center allign-item-center" style="min-height: 100hv;">
+    <main class="fade-page d-flex flex-column justify-content-center allign-item-center" style="min-height: 100vh;">
         @yield("content")
     </main>
 
     <footer>
-        <p>© 2025 Information Technology 5B Class - UIN Salatiga</p>
+        <p class="fade-in">© 2025 Information Technology 5B Class - UIN Salatiga</p>
         <div class="social-links">
             <a href="https://www.instagram.com/mdzalbrki_/" target="_blank">
                 <i class="fab fa-instagram"></i>
@@ -51,6 +51,32 @@
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const links = document.querySelectorAll('a[href]');
+            for (const link of links) {
+                if (link.hostname === window.location.hostname) {
+                    link.addEventListener('click', e => {
+                        const target = link.getAttribute('href');
+                        if (target && !target.startsWith('#')) {
+                            e.preventDefault();
+                            document.body.style.opacity = 0;
+                            setTimeout(() => {
+                                window.location.href = target;
+                            }, 400); // durasi dissolve keluar
+                        }
+                    });
+                }
+            }
+        });
+    </script>
+
+    <script>
+    window.addEventListener('load', () => {
+        document.body.classList.add('loaded');
+    });
+    </script>
 
 </body>
 

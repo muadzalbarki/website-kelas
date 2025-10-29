@@ -1,0 +1,12 @@
+[
+    { "title": "Fotbar setelah UTS", "img": "/images/documentation/doc1.jpg" },
+    { "title": "Kelompok IOT 1", "img": "/images/documentation/doc2.jpg" },
+    { "title": "Kelompok IOT 2", "img": "/images/documentation/doc3.jpg" },
+    { "title": "Kelompok IOT 3", "img": "/images/documentation/doc4.jpeg" },
+    { "title": "Panitia (Pengatur)", "img": "/images/documentation/doc5.jpeg" },
+    { "title": "KKL", "img": "/images/documentation/doc6.jpeg" },
+    { "title": "ALfarisy", "img": "/images/documentation/doc7.jpeg" },
+    { "title": "Kunjungan ubtech 1", "img": "/images/documentation/doc8.jpeg" },
+    { "title": "Kunjungan ubtech 2", "img": "/images/documentation/doc9.jpeg" },
+    { "title": "Ubtech 3", "img": "/images/documentation/doc10.jpeg" }
+]

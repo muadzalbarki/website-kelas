@@ -10,3 +10,7 @@ Route::get('/profil', function () {
     return view('profil');
 });
 
+
+Route::get('/dokumentasi', function () {
+    return view('dokumentasi');
+});
